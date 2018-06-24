@@ -1,0 +1,1 @@
+This repository contains a 2D horror game based on famous Little Red Riding Hood novel.  
